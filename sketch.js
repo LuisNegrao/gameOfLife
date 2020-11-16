@@ -1,5 +1,5 @@
 let board = [];
-const boardSize = 50;
+const boardSize = 250;
 
 function setup() {
   createCanvas(boardSize *10, boardSize*10);
